@@ -1,5 +1,8 @@
 # 团队介绍
 
+## 主页
+ [主页](https://souche-finance-wireless.github.io/department-blog/)
+
 <a name="uyfe3"></a>
 # [](https://souche.yuque.com/bggh1p/front-end/gopevv#article-title)金融前端组
 金融前端组隶属于金服事业部金融研发部，承接了金融业务的前端开发工作，主要赋能金融工具给其他事业部。我们是一支年轻有激情有活力的团队，工作在离用户最近的地方，负责人机交互和用户体验。业务特点是需求多，变化快，要求我们及时快速响应。
