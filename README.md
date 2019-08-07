@@ -1,7 +1,7 @@
 # 团队介绍
 
 ## 主页
- [主页](https://souche-finance-wireless.github.io/department-blog/)
+[主页](https://souche-finance-wireless.github.io/department-blog/)
 
 <a name="uyfe3"></a>
 # [](https://souche.yuque.com/bggh1p/front-end/gopevv#article-title)金融前端组
