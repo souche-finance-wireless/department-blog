@@ -613,8 +613,8 @@ export default {
     body.appendChild(script);
     script.onload = () => {
       const commentConfig = {
-        clientID: '74950a0af874ae59e2fb',
-        clientSecret: '890ecf4b46af5343af4453d75eaa9009de59f5f7',
+        clientID: '091a037559932dc1c68a',
+        clientSecret: '5a300d6728c22140a43c6993d4b6c810de65659c',
         repo: 'department-blog',
         owner: 'souche-finance-wireless',
         admin: ['souche-finance-wireless'],
