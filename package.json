@@ -1,14 +1,15 @@
 {
-  "name": "latteandcat",
+  "name": "financial-blog",
   "version": "1.0.0",
-  "description": "personal blog",
+  "description": "SouChe Financial Front-end Group",
   "scripts": {
     "dev": "vuepress dev docs",
+    "test": "jest",
     "build": "vuepress build docs",
     "build:comment": "node ./builds/addComponents.js && vuepress build docs && node ./builds/delComponents.js",
     "deploy": "sh deploy.sh"
   },
-  "author": "zsw",
+  "author": "SouChe Financial Front-end Group",
   "dependencies": {
     "gitalk": "^1.5.0",
     "md5": "^2.2.1",
@@ -18,6 +19,8 @@
     "@vuepress/plugin-medium-zoom": "^1.0.2",
     "vuepress": "^1.0.2",
     "vuepress-plugin-flowchart": "^1.4.3",
-    "vuepress-plugin-yuque": "^0.6.0"
+    "vuepress-plugin-yuque": "^0.6.0",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0"
   }
 }

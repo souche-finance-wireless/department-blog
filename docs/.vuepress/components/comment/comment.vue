@@ -617,7 +617,7 @@ export default {
         clientSecret: '0d2fe55b4a16f7e7426af0c07ca30bf90d1b312b',
         repo: 'department-blog',
         owner: 'souche-finance-wireless',
-        admin: ['souche-finance-f2e','berlinen','souche-finance-wireless'],
+        admin: ['souche-finance-f2e','souche-finance-wireless'],
         id: md5(location.href),
         distractionFreeMode: false,
       };
