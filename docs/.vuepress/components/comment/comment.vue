@@ -613,11 +613,11 @@ export default {
     body.appendChild(script);
     script.onload = () => {
       const commentConfig = {
-        clientID: '091a037559932dc1c68a',
-        clientSecret: '5a300d6728c22140a43c6993d4b6c810de65659c',
+        clientID: '031a9644fceb0f7d2dd2',
+        clientSecret: '0d2fe55b4a16f7e7426af0c07ca30bf90d1b312b',
         repo: 'department-blog',
         owner: 'souche-finance-wireless',
-        admin: ['souche-finance-wireless'],
+        admin: ['souche-finance-f2e','berlinen','souche-finance-wireless'],
         id: md5(location.href),
         distractionFreeMode: false,
       };

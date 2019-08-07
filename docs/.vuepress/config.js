@@ -19,7 +19,7 @@ module.exports = {
       { text: '关于我们',
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/berlinen/', icon: 'reco-github' },
+          { text: 'GitHub', link: 'https://github.com/souche-finance-wireless/', icon: 'reco-github' },
           { text: '语雀', link: 'https://souche.yuque.com/bggh1p/front-end', icon: '/yuque.png' }
         ]
       }
@@ -55,13 +55,13 @@ module.exports = {
     // 项目开始时间
     startYear: '2018',
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-    repo: 'https://github.com/berlinen/department-blog/',
+    repo: 'https://github.com/souche-finance-wireless/department-blog',
     // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
     // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
      // 假如文档不是放在仓库的根目录下：
     docsDir: 'docs',
      // 假如文档放在一个特定的分支下：
-    docsBranch: 'develop',
+    docsBranch: 'master',
 
     repoLabel: '查看源码',
     // 默认是 false, 设置为 true 来启用
